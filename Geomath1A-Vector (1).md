@@ -38,7 +38,7 @@ Vektor adalah besaran yang memiliki:
 Dituliskan sebagai:
 
 $$
-\mathbf{v} = (v_1, v_2, v_3)
+/vec{V} = (v_1, v_2, v_3)
 $$
 
 ---
