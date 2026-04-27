@@ -2,7 +2,7 @@
 marp: true
 ---
 # GEOMATH 
-### Nama Anggota Kelompok 1A
+### Nama Anggota Kelompok 3B
 1. Muh. Alif Nul Hakim
 2. Raushi Fikra Nadiya
 3. Sahrania
@@ -38,7 +38,7 @@ Vektor adalah besaran yang memiliki:
 Dituliskan sebagai:
 
 $$
-$\overrightarrow{V}$ = (v_1, v_2, v_3)
+\overrightarrow{V} = (v_1, v_2, v_3)
 $$
 
 ---
