@@ -38,8 +38,8 @@ Vektor adalah besaran yang memiliki:
 Dituliskan sebagai:
 
 $$
-**\overrightarrow{V}**$$ = (v_1, v_2, v_3)
-$$
+$$**\overrightarrow{V}**$$ = (v_1, v_2, v_3)
+
 
 ---
 
